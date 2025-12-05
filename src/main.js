@@ -1,20 +1,18 @@
-import Swiper from "swiper/bundle";
-import "swiper/css/bundle";
+// Auto Slide for DaisyUI Carousel
 
-// Infinite Loop Slider
-new Swiper(".mySwiper", {
-  loop: true,
-  speed: 600,
-  autoplay: {
-    delay: 2500,
-    disableOnInteraction: false,
-  },
-  pagination: {
-    el: ".swiper-pagination",
-    clickable: true,
-  },
-  navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
-  },
-});
+let currentSlide = 1;
+const totalSlides = 4;
+
+function autoSlide() {
+  currentSlide++;
+
+  if (currentSlide > totalSlides) {
+    currentSlide = 1;
+  }
+
+  // Slide chnage
+  window.location.hash = "#slide" + currentSlide;
+}
+
+// slide chnage every 3 sec
+setInterval(autoSlide, 3000);
