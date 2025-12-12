@@ -1,3 +1,8 @@
+<p align="center">
+  <strong> Live Link: https://dev-rktanvir-biker-zone.netlify.app/ </strong>
+</p>
+
+![Hero Section](https://github.com/dev-rktanvir/biker-zone/blob/main/screenshorts/biker-zone.png)
 # 🏍️ Biker Zone – Premium Motorcycle Landing Page
 
 A sleek, modern, and fully responsive landing page designed for motorcycle enthusiasts and premium bike retailers, built using HTML, CSS, Tailwind CSS, and DaisyUI.  
@@ -75,6 +80,19 @@ You can easily modify:
 - Contact information and app download links  
 
 Tailwind classes and DaisyUI components make customization **fast, flexible, and intuitive**.
+
+---
+
+## 📸 Screenshots
+**Click on Image to see bigger version**
+
+| Hero | Featured Bikes | Testimonials |
+| ---- | --------------- | ------------ |
+| <img src="https://github.com/dev-rktanvir/biker-zone/blob/main/screenshorts/biker-zone-hero.png" width="250"/> | <img src="https://github.com/dev-rktanvir/biker-zone/blob/main/screenshorts/biker-zone-feature-bike.png" width="250"/> | <img src="https://github.com/dev-rktanvir/biker-zone/blob/main/screenshorts/biker-zone-testimonial.png" width="250"/> |
+
+| News | FAQ | Footer |
+| ---- | --- | ------ |
+| <img src="https://github.com/dev-rktanvir/biker-zone/blob/main/screenshorts/biker-zone-news.png" width="250"/> | <img src="https://github.com/dev-rktanvir/biker-zone/blob/main/screenshorts/biker-zone-faq.png" width="250"/> | <img src="https://github.com/dev-rktanvir/biker-zone/blob/main/screenshorts/biker-zone-footer.png" width="250"/> |
 
 ---
 
